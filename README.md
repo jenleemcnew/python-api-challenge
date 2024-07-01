@@ -37,6 +37,7 @@ You should create the following plots:
 - Southern Hemisphere: Cloudiness vs. Latitude
 - Northern Hemisphere: Wind Speed vs. Latitude
 - Southern Hemisphere: Wind Speed vs. Latitude
+
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
 ## Part 2: VacationPy
